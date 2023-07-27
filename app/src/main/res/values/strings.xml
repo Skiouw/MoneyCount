@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MoneyCount</string>
+    <string name="descAddButton">Bouton d\'ajout</string>
+    <string name="money">1000000.00€</string>
+    <string name="descProfilBouton">Bouton profil</string>
+    <string name="descBackButton">Bouton retour</string>
+    <string name="nomProfile">Nom du profil</string>
+    <string name="moneyProfile">Salaire mensuel</string>
+    <string name="startTime">Heure de début</string>
+    <string name="endTime">Heure de fin</string>
+    <string name="valider">Valider</string>
+</resources>
